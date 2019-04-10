@@ -1,0 +1,12 @@
+{
+    "name": "tianmac/elasticsearch-php-study",
+    "description": "学习elasticsearch-php",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "tianwangchong",
+            "email": "q408596288@vip.qq.com"
+        }
+    ],
+    "require": {}
+}
