@@ -8,5 +8,7 @@
             "email": "q408596288@vip.qq.com"
         }
     ],
-    "require": {}
+    "require": {
+        "elasticsearch/elasticsearch": "~6.0"
+    }
 }
